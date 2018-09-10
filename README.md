@@ -1,2 +1,2 @@
 # Data-Viz
-Data Visualization Course Project
+portfolio of Programs and case studies in Data Viz Class of UIUC
